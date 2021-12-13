@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital@0;1&family=PT+Sans:ital@0;1&family=Sacramento&display=swap');
+
 :root {
 	/* CSS HEX */
-	--midnight-green-eagle-green: #114b5fff;
-	--metallic-seaweed: #028090ff;
-	--nyanza: #e4fde1ff;
-	--queen-blue: #456990ff;
-	--fiery-rose: #f45b69ff;
+	--clr-primary: #2b2d42;
+	--clr-secondary: #028090ff;
+	--clr-text: #55d2e2;
+	--clr-headings: #456990ff;
+	--clr-accent: #f45b69ff;
+	/* Fonts */
+	--ff-text: 'PT Sans', sans-serif;
+	--ff-heading: 'Anonymous Pro', monospace;
+	--ff-accent: 'Sacramento', serif;
 }
 
 * {
@@ -14,24 +20,27 @@
 }
 
 body {
-	background-color: var(--midnight-green-eagle-green);
+	background-color: var(--clr-primary);
 }
 
 p {
-	color: var(--nyanza);
+	color: var(--clr-text);
+	font-family: var(--ff-text);
 }
 
 h1,
 h2,
 h3 {
-	color: var(--fiery-rose);
+	color: var(--clr-secondary);
+	font-family: var(--ff-heading);
 }
 
 a {
-	color: var(--metallic-seaweed);
+	color: var(--clr-text);
 	text-decoration: none;
+	font-family: var(--ff-text);
 }
 
 a:hover {
-	color: var(--queen-blue);
+	color: var(--clr-accent);
 }
