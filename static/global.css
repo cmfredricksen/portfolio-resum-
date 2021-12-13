@@ -1,0 +1,37 @@
+:root {
+	/* CSS HEX */
+	--midnight-green-eagle-green: #114b5fff;
+	--metallic-seaweed: #028090ff;
+	--nyanza: #e4fde1ff;
+	--queen-blue: #456990ff;
+	--fiery-rose: #f45b69ff;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: var(--midnight-green-eagle-green);
+}
+
+p {
+	color: var(--nyanza);
+}
+
+h1,
+h2,
+h3 {
+	color: var(--fiery-rose);
+}
+
+a {
+	color: var(--metallic-seaweed);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--queen-blue);
+}
