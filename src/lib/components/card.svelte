@@ -10,7 +10,7 @@
 <div class="card">
 	<img src={img} alt="Icon for site" />
 	<h2 class="title">
-		<a href={url}>{title}</a>
+		<a href={url} target="blank">{title}</a>
 	</h2>
 	<p>{description}</p>
 </div>
