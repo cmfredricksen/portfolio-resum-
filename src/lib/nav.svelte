@@ -4,7 +4,7 @@
 			<a href="/">Home</a>
 		</li>
 		<li>
-			<a href="/resume">Resume</a>
+			<a href="/resume">Resumé</a>
 		</li>
 	</ul>
 </nav>

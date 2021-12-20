@@ -1,8 +1,42 @@
 <script>
 	import Card from '../lib/components/card.svelte';
+
+	const links = [
+		{
+			url: 'https://technotes.cmfred.com',
+			description: 'A simple guide to Git & GitHub for Beginners',
+			title: 'Tech Notes',
+			img: '../static/images/026-coding.png'
+		},
+		{
+			url: 'https://cmfred.com',
+			description: 'My Homepage & Freelance Service Website',
+			title: 'CM Fredricksen Development',
+			img: '../static/images/001-dev.png'
+		},
+		{
+			url: 'https://art.cmfred.com',
+			description: 'I made a little gallery showcasing my own paintings',
+			title: 'Art by Chris',
+			img: '../static/images/007-fine-art.png'
+		},
+		{
+			url: 'https://github.com/cmfredricksen',
+			description: 'My Github Repos',
+			title: 'GitHub of CM Fredricksen',
+			img: '../static/images/005-github.png'
+		}
+	];
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="container">
+	{#each links as link}
+		<Card {...link} />
+	{/each}
+</div>
 
-<Card />
+<style>
+	.container {
+		display: flex;
+	}
+</style>
