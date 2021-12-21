@@ -29,14 +29,28 @@
 	];
 </script>
 
-<div class="container">
-	{#each links as link}
-		<Card {...link} />
-	{/each}
+<div class="main">
+	<div class="container">
+		{#each links as link}
+			<Card {...link} />
+		{/each}
+	</div>
 </div>
 
 <style>
+	.main {
+		max-width: 1200px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		margin: auto;
+	}
 	.container {
 		display: flex;
+		flex-wrap: wrap;
+		margin: 2rem auto;
+		/* align-items: center; */
+		/* justify-content: center; */
 	}
 </style>

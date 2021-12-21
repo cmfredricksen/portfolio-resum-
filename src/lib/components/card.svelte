@@ -9,16 +9,16 @@
 
 <div class="card">
 	<img src={img} alt="Icon for site" />
-	<h2 class="title">
+	<h3 class="title">
 		<a href={url} target="blank">{title}</a>
-	</h2>
+	</h3>
 	<p>{description}</p>
 </div>
 
 <style>
 	.card {
 		border: 2px solid var(--clr-text);
-		max-width: 30vw;
+		max-width: 30%;
 		margin: 2rem;
 		display: flex;
 		flex-direction: column;

@@ -5,8 +5,8 @@
 	--clr-primary: #2b2d42;
 	--clr-secondary: #028090ff;
 	--clr-text: #55d2e2;
-	--clr-headings: #456990ff;
-	--clr-accent: #f45b69ff;
+	--clr-headings: #ea638c;
+	--clr-accent: #89023e;
 	/* Fonts */
 	--ff-text: 'PT Sans', sans-serif;
 	--ff-heading: 'Anonymous Pro', monospace;
@@ -20,6 +20,7 @@
 }
 
 body {
+	margin: auto;
 	background-color: var(--clr-primary);
 }
 
