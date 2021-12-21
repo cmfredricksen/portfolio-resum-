@@ -18,7 +18,7 @@
 <style>
 	.card {
 		border: 2px solid var(--clr-text);
-		max-width: 30%;
+		max-width: 20%;
 		margin: 2rem;
 		display: flex;
 		flex-direction: column;
@@ -28,11 +28,25 @@
 		background-color: var(--clr-secondary);
 	}
 
+	h3 {
+		text-align: center;
+		margin: 0.5rem 0;
+	}
+
 	a {
 		color: var(--clr-accent);
+		text-align: center;
+		margin: 0.5rem 0;
 	}
 
 	img {
 		width: 100px;
+		background-color: var(--clr-text);
+		padding: 0.25rem;
+		border-radius: 0.5rem;
+	}
+
+	p {
+		color: white;
 	}
 </style>

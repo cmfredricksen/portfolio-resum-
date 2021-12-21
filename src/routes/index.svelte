@@ -12,19 +12,31 @@
 			url: 'https://cmfred.com',
 			description: 'My Homepage & Freelance Service Website',
 			title: 'CM Fredricksen Development',
-			img: '../static/images/001-dev.png'
+			img: '../static/images/027-coding-1.png'
 		},
 		{
 			url: 'https://art.cmfred.com',
 			description: 'I made a little gallery showcasing my own paintings',
 			title: 'Art by Chris',
-			img: '../static/images/007-fine-art.png'
+			img: '../static/images/008-image.png'
+		},
+		{
+			url: 'https://kramer-bay-dog-obedience.netlify.app/',
+			description: 'A brochure site for a local dog obedience class',
+			title: 'Kramer Bay Dog Obedience',
+			img: '../static/images/017-border-collie.png'
+		},
+		{
+			url: 'https://artshop.cmfred.com',
+			description: 'A WooCommerce shop to sell my artwork',
+			title: 'Art Shop',
+			img: '../static/images/010-online-shopping.png'
 		},
 		{
 			url: 'https://github.com/cmfredricksen',
 			description: 'My Github Repos',
 			title: 'GitHub of CM Fredricksen',
-			img: '../static/images/005-github.png'
+			img: '../static/images/004-github-big-logo.png'
 		}
 	];
 </script>
