@@ -34,4 +34,19 @@
 		margin-left: 1rem;
 		font-style: italic;
 	}
+
+	@media only screen and (max-width: 600px) {
+		header {
+			flex-direction: column;
+		}
+
+		.title {
+			flex-direction: column;
+			padding-bottom: 2rem;
+		}
+
+		h1 {
+			padding: 0.5rem 0;
+		}
+	}
 </style>

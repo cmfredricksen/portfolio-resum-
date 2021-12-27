@@ -1,11 +1,19 @@
+<script>
+	import { page } from '$app/stores';
+
+	const nav = [
+		{ title: 'Home', path: '/' },
+		{ title: 'Resumé', path: '/resume' }
+	];
+</script>
+
 <nav>
 	<ul>
-		<li>
-			<a href="/">Home</a>
-		</li>
-		<li>
-			<a href="/resume">Resumé</a>
-		</li>
+		{#each nav as item}
+			<li>
+				<a class:active={$page.path === item.path} href={item.path}>{item.title}</a>
+			</li>
+		{/each}
 	</ul>
 </nav>
 
@@ -17,5 +25,9 @@
 		list-style: none;
 		margin-right: 1rem;
 		font-size: large;
+	}
+
+	.active {
+		text-decoration: underline;
 	}
 </style>
