@@ -17,8 +17,9 @@
 
 <style>
 	.card {
-		border: 2px solid var(--clr-text);
-		max-width: 20%;
+		border: 3px solid var(--clr-text);
+		/* max-width: 20%; */
+		width: 300px;
 		margin: 2rem;
 		display: flex;
 		flex-direction: column;
@@ -26,6 +27,8 @@
 		padding: 2rem 1rem;
 		border-radius: 0.5rem;
 		background-color: var(--clr-secondary);
+		/* box-shadow: 3px 3px 1px var(--clr-headings); */
+		outline: 4px solid var(--clr-headings);
 	}
 
 	h3 {
@@ -34,15 +37,22 @@
 	}
 
 	a {
-		color: var(--clr-accent);
+		color: var(--clr-text);
 		text-align: center;
 		margin: 0.5rem 0;
+		text-shadow: 1px 1px 1px var(--clr-primary);
+	}
+
+	a:hover {
+		color: var(--clr-headings);
 	}
 
 	img {
 		width: 100px;
 		background-color: var(--clr-text);
 		padding: 0.25rem;
+		outline: 4px solid var(--clr-text);
+		border: 2px solid var(--clr-secondary);
 		border-radius: 0.5rem;
 	}
 

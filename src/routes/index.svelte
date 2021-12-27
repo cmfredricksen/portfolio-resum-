@@ -28,7 +28,7 @@
 		},
 		{
 			url: 'https://artshop.cmfred.com',
-			description: 'A WooCommerce shop to sell my artwork',
+			description: 'A shop to sell my artwork built with WooCommerce',
 			title: 'Art Shop',
 			img: '../static/images/010-online-shopping.png'
 		},
@@ -52,17 +52,18 @@
 <style>
 	.main {
 		max-width: 1200px;
-		display: flex;
+		/* display: flex;
 		flex-direction: column;
 		align-items: center;
-		justify-content: center;
+		justify-content: center; */
 		margin: auto;
 	}
 	.container {
 		display: flex;
 		flex-wrap: wrap;
 		margin: 2rem auto;
-		/* align-items: center; */
-		/* justify-content: center; */
+		padding: 0;
+		align-items: center;
+		justify-content: center;
 	}
 </style>
