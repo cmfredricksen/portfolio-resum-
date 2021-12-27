@@ -41,6 +41,15 @@
 	];
 </script>
 
+<div class="intro">
+	<p>
+		Welcome to my Web Folio! Here are links to some of the personal projects I have done while
+		learning web development. You can also find a link to my GitHub page which contains the repos
+		for these projects along with others I am working on and some from when I started learning.
+		Above you will find a link to my resumé. Thanks for stopping by!
+	</p>
+</div>
+
 <div class="main">
 	<div class="container">
 		{#each links as link}
@@ -50,6 +59,11 @@
 </div>
 
 <style>
+	.intro {
+		padding: 1rem 3rem;
+		font-size: large;
+	}
+
 	.main {
 		max-width: 1200px;
 		/* display: flex;

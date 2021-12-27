@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Web•Folio by CMF</title>
+	<title>Web • Folio by CMF</title>
 </svelte:head>
 
 <Header />
