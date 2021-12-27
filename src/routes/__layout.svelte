@@ -4,6 +4,10 @@
 	import '../../static/global.css';
 </script>
 
+<svelte:head>
+	<title>Web•Folio by CMF</title>
+</svelte:head>
+
 <Header />
 <slot />
 <Footer />
