@@ -43,10 +43,11 @@
 
 <div class="intro">
 	<p>
-		Welcome to my Web Folio! Here are links to some of the personal projects I have done while
-		learning web development. You can also find a link to my GitHub page which contains the repos
-		for these projects along with others I am working on and some from when I started learning.
-		Above you will find a link to my resumé. Thanks for stopping by!
+		Welcome to my Web Folio! Here are links to some of the recent personal projects I have done
+		while learning web development. You can also find a link to my GitHub page which contains some
+		of the repos for these projects, along with others I am working on, and some from when I started
+		learning too. Some of these sites are hosted on Netlify using GitHub for integration. Above you
+		will find a link to my resumé. Thanks for stopping by!
 	</p>
 </div>
 

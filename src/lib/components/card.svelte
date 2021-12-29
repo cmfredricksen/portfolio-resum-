@@ -8,7 +8,9 @@
 </script>
 
 <div class="card">
-	<img src={img} alt="Icon for site" />
+	<a href={url} target="blank">
+		<img src={img} alt="Icon for site" />
+	</a>
 	<h3 class="title">
 		<a href={url} target="blank">{title}</a>
 	</h3>
@@ -37,10 +39,10 @@
 	}
 
 	a {
-		color: var(--clr-text);
+		color: var(--clr-primary);
 		text-align: center;
 		margin: 0.5rem 0;
-		text-shadow: 1px 1px 1px var(--clr-primary);
+		text-shadow: 1px 1px 1px var(--clr-secondary);
 	}
 
 	a:hover {
@@ -52,6 +54,13 @@
 		background-color: var(--clr-text);
 		padding: 0.25rem;
 		outline: 4px solid var(--clr-text);
+		border: 4px solid var(--clr-headings);
+		border-radius: 0.5rem;
+	}
+
+	img:hover {
+		outline: 4px solid var(--clr-headings);
+		background-color: var(--clr-text);
 		border: 2px solid var(--clr-secondary);
 		border-radius: 0.5rem;
 	}
