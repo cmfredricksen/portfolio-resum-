@@ -36,6 +36,7 @@
 	h3 {
 		text-align: center;
 		margin: 0.5rem 0;
+		font-weight: bold;
 	}
 
 	a {
