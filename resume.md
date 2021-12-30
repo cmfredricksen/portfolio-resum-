@@ -4,7 +4,7 @@ _Graphic Designer & Web Developer_
 
 218-504-9155\
 Ely, MN 55731\
-chris@cmfred.com
+chris@cmfred.com\
 cmfredricksen@gmail.com
 
 ## Freelance Graphic Designer & Web Developer looking for a Job
@@ -46,5 +46,5 @@ I received an A.S. degree in Graphic Design(3.7 GPA) from State College of Flori
 
 **Work Experience**
 
-I have experience in healthcare, retail, tourism, natural resources jobs before college and freelancing.
-I also have volunteered several times over the years from maintenance, teaching and even founding a non-profit.
+I have experience in healthcare, retail, tourism, and natural resources jobs before college and freelancing.
+I also have volunteered several times over the years doing various things from maintenance, teaching and even founding a non-profit.
