@@ -6,37 +6,37 @@
 			url: 'https://technotes.cmfred.com',
 			description: 'A simple guide to Git & GitHub for Beginners',
 			title: 'Tech Notes',
-			img: '../static/images/026-coding.png'
+			img: '/images/026-coding.png'
 		},
 		{
 			url: 'https://cmfred.com',
 			description: 'My Homepage & Freelance Service Website',
 			title: 'CM Fredricksen Development',
-			img: '../static/images/027-coding-1.png'
+			img: '/images/027-coding-1.png'
 		},
 		{
 			url: 'https://art.cmfred.com',
 			description: 'I made a little gallery showcasing my own paintings',
 			title: 'Art by Chris',
-			img: '../static/images/008-image.png'
+			img: '/images/008-image.png'
 		},
 		{
 			url: 'https://kramer-bay-dog-obedience.netlify.app/',
 			description: 'A brochure site for a local dog obedience class',
 			title: 'Kramer Bay Dog Obedience',
-			img: '../static/images/017-border-collie.png'
+			img: '/images/017-border-collie.png'
 		},
 		{
 			url: 'https://artshop.cmfred.com',
 			description: 'A shop to sell my artwork built with WooCommerce',
 			title: 'Art Shop',
-			img: '../static/images/010-online-shopping.png'
+			img: '/images/010-online-shopping.png'
 		},
 		{
 			url: 'https://github.com/cmfredricksen',
 			description: 'My Github Repos',
 			title: 'GitHub of CM Fredricksen',
-			img: '../static/images/004-github-big-logo.png'
+			img: '/images/004-github-big-logo.png'
 		}
 	];
 </script>
