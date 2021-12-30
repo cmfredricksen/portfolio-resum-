@@ -203,6 +203,45 @@
 	</p>
 </div>
 
+<div class="education">
+	<h1>Education</h1>
+	<ul>
+		<li>
+			<h2>A.S. Graphic Design -2000</h2>
+			<p>Manatee Community College</p>
+		</li>
+		<li>
+			<h2>Certificate of Completion Responsive Web Design -2020</h2>
+			<p>Free Code Camp</p>
+		</li>
+		<li>
+			<h2>Javascript, The Advanced Concepts -2020</h2>
+			<p>Udemy by Andrei Neagoie</p>
+		</li>
+		<li>
+			<h2>The Complete JavaScript Course 2022: From Zero to Expert! -2021</h2>
+			<p>Udemy by Jonas Schmedtmann</p>
+		</li>
+		<li>
+			<h2>Node.js, Express, MongoDB & More: The Complete Bootcamp -2021</h2>
+			<p>Udemy by Jonas Schmedtmann</p>
+		</li>
+		<li>
+			<h2>
+				Various CLasses & Tutorials on CSS, JS, Node, Express, MongoDB, SvelteKit, VueJs, ReactJs,
+				Vim, VSCode, Python, C#, JSON, RestApi, Deployment, WordPress Themes, Google Analytics, MVC
+				and more.
+			</h2>
+			<p>YouTube by various teachers</p>
+			<p>CLasses by various Developers</p>
+		</li>
+		<li>
+			<h2>Coding Projects</h2>
+			<p>Building projects to learn how it works, starting with simple HTML pages to full stack.</p>
+		</li>
+	</ul>
+</div>
+
 <style>
 	.icons {
 		padding: 2rem;
