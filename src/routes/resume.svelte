@@ -233,11 +233,15 @@
 				and more.
 			</h2>
 			<p>YouTube by various teachers</p>
-			<p>CLasses by various Developers</p>
+			<p>Classes by various Developers</p>
 		</li>
 		<li>
 			<h2>Coding Projects</h2>
 			<p>Building projects to learn how it works, starting with simple HTML pages to full stack.</p>
+		</li>
+		<li>
+			<h2>Other Topics...</h2>
+			<p>Nursing, Biology, Botany, Tai Chi, Personal Training, Literature, Philosophy & Religion</p>
 		</li>
 	</ul>
 </div>
