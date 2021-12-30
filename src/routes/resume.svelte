@@ -61,42 +61,63 @@
 	<h1>Relevant Experience</h1>
 	<ul>
 		<li>
-			<h3>Javascript</h3>
+			<h3>
+				Javascript
+				<i class="devicon-javascript-plain small" />
+			</h3>
 			<p>
 				Working knowledge of Javascript, ES6, Async/Await, Methods, Objects, OOP & Functional
 				programming. In-depth understanding including scope and props.
 			</p>
 		</li>
 		<li>
-			<h3>CSS 3 & Sass</h3>
+			<h3>
+				CSS 3 & Sass
+				<i class="devicon-css3-plain small" />
+				<i class="devicon-sass-plain small" />
+			</h3>
 			<p>
 				Ability to design a page using colors and fonts with layout. Proficient with Sass, CSS
 				variables, CSS Grid, Flexbox, Cascading Stylesheets, and Responsive Designs.
 			</p>
 		</li>
 		<li>
-			<h3>HTML 5</h3>
+			<h3>
+				HTML 5
+				<i class="devicon-html5-plain small" />
+			</h3>
 			<p>
 				I can put the content on the page and know how to format the head, use classes & IDs, import
 				fonts & stylesheets and develop forms.
 			</p>
 		</li>
 		<li>
-			<h3>Nodejs & NPM</h3>
+			<h3>
+				Nodejs & NPM
+				<i class="devicon-nodejs-plain small" />
+				<i class="devicon-npm-original-wordmark small" />
+			</h3>
 			<p>
 				I use Node and NPM with every project, to run scripts, start servers, download packages and
 				much more.
 			</p>
 		</li>
 		<li>
-			<h3>Express JS, Mongoose, MongoDb Atlas</h3>
+			<h3>
+				Express JS, Mongoose, MongoDb Atlas
+				<i class="devicon-mongodb-plain small" />
+				<i class="devicon-express-original small" />
+			</h3>
 			<p>
 				Ability to build a server and an app, using CRUD functions, routing, controllers, models and
 				testing HTTP routes using Postman or REST Client.
 			</p>
 		</li>
 		<li>
-			<h3>Svelte & SvelteKit</h3>
+			<h3>
+				Svelte & SvelteKit
+				<i class="devicon-svelte-plain small" />
+			</h3>
 			<p>
 				I really love these tools, I find them very intuitive for combining the elements of the
 				projects. It is also very light and fast. I have done some work with ReactJS and VueJS, but
@@ -104,7 +125,11 @@
 			</p>
 		</li>
 		<li>
-			<h3>VSCode, Powershell, Notepad++, Git Bash & Vim</h3>
+			<h3>
+				VSCode, Powershell, Notepad++, Git Bash & Vim
+				<i class="devicon-vscode-plain small" />
+				<i class="devicon-vim-plain small" />
+			</h3>
 			<p>
 				Proficient and efficient use of various editors and shells. Knowledge of settings, keyboard
 				shortcuts, built in tools such as emmet and extensions in VSCode. I use Powershell for all
@@ -113,18 +138,30 @@
 			</p>
 		</li>
 		<li>
-			<h3>Windows, Mac & Linux</h3>
+			<h3>
+				Windows, Mac & Linux
+				<i class="devicon-linux-plain small" />
+				<i class="devicon-apple-plain small" />
+			</h3>
 			<p>Lots of experience with all 3 major operating sysytems, also used MSDos long ago.</p>
 		</li>
 		<li>
-			<h3>Google & Chrome</h3>
+			<h3>
+				Google & Chrome
+				<i class="devicon-google-plain small" />
+				<i class="devicon-chrome-plain small" />
+			</h3>
 			<p>
 				Ability to find solutions and answers to programming problems and bugs, use documentation
 				provided by developers to learn and understand tools, debug software and CSS using Chrome.
 			</p>
 		</li>
 		<li>
-			<h3>Git, GitHub & Netlify</h3>
+			<h3>
+				Git, GitHub & Netlify
+				<i class="devicon-git-plain small" />
+				<i class="devicon-github-plain small" />
+			</h3>
 			<p>
 				Knowledge of Version control using local repos and GitHub for online repos. <a
 					href="https://technotes.cmfred.com">My Beginners Guide to Git & Github</a
@@ -132,13 +169,38 @@
 			</p>
 		</li>
 		<li>
-			<h3>WordPress & WooCommerce</h3>
+			<h3>
+				WordPress & WooCommerce
+				<i class="devicon-wordpress-plain small" />
+				<i class="devicon-woocommerce-plain small" />
+			</h3>
 			<p>
 				Over ten years of experience building WordPress sites. I have built stores using Woo
 				Commerce and know how to customize themes.
 			</p>
 		</li>
 	</ul>
+</div>
+
+<div class="work-history">
+	<h1>Work History</h1>
+	<p>
+		I have spent many years freelancing part time while I was raising my kids full time. My kids are
+		grown now and I am ready to start the next phase of my life. I have worked as a developer and
+		graphic designer for myself and others, doing everything from monthly newsletters, book editing,
+		blogs, brochure sites, e-commerce sites, documentation sites, and more. I have also sold various
+		things from books to artwork on Ebay, Amazon and Etsy. I have also done different types of
+		volunteer work over the years including starting a non-profit for a state park in Florida and
+		teaching Tai Chi to seniors.
+	</p>
+	<p>
+		I have had jobs working in retail, food service, health care, tourism, and natural resources. It
+		has been over twenty years since I have held down a job(w-2) for an employer.
+	</p>
+	<p>
+		Over the past few years I have been selling paintings locally through shows and online. Most of
+		my time has been spent coding and expanding my knowledge and skills.
+	</p>
 </div>
 
 <style>
@@ -153,5 +215,28 @@
 		font-size: 3rem;
 		color: var(--clr-text);
 		margin: 1rem 0;
+	}
+
+	.experience {
+		display: flex;
+		flex-direction: column;
+		width: 50vw;
+	}
+
+	li {
+		padding: 1rem;
+	}
+
+	h1,
+	h3 {
+		color: var(--clr-headings);
+	}
+
+	.small {
+		/* border: 2px solid var(--clr-text); */
+		/* border-radius: 2rem; */
+		padding: 0.25rem;
+		font-size: 1rem;
+		/* background-color: var(--clr-accent); */
 	}
 </style>
