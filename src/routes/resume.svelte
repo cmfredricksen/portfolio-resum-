@@ -314,7 +314,7 @@
 	}
 	li {
 		padding: 0 1rem;
-		margin: 0.5rem 0;
+		margin: 1rem 0;
 		list-style: none;
 	}
 
@@ -334,5 +334,47 @@
 	.small {
 		padding: 0.25rem;
 		font-size: 1rem;
+	}
+
+	/* Media Query for max-width of 600px */
+
+	@media only screen and (max-width: 600px) {
+		.title {
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.contact {
+			flex-direction: column;
+		}
+
+		.container {
+			flex-direction: column-reverse;
+			align-items: center;
+		}
+
+		.experience {
+			width: 90vw;
+			padding: 0;
+		}
+
+		.icons {
+			width: 100vw;
+			border-radius: 0.5rem;
+		}
+
+		i {
+			font-size: 2rem;
+			margin: 0.5rem auto;
+		}
+
+		h2 {
+			font-size: 1rem;
+			margin-bottom: 0.5rem;
+		}
+
+		.education > ul > li {
+			padding: 0;
+		}
 	}
 </style>
