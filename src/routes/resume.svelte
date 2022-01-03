@@ -166,6 +166,7 @@
 				</h3>
 				<p>
 					Knowledge of Version control using local repos and GitHub for online repos. <a
+						class="intext-link"
 						href="https://technotes.cmfred.com">My Beginners Guide to Git & Github</a
 					>. I also deploy some websites to Netlify, using GitHub for continuous deployment.
 				</p>
@@ -295,6 +296,15 @@
 		flex-direction: column;
 		width: 50vw;
 		padding: 1rem;
+	}
+
+	.intext-link {
+		font-size: large;
+		font-weight: bold;
+	}
+
+	.intext-link:hover {
+		color: var(--clr-headings);
 	}
 
 	.work-history {
