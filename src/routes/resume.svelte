@@ -187,6 +187,7 @@
 
 <div class="work-history">
 	<h1>Work History</h1>
+	<p>There is more detail on my printable resumé, linked above. Thank you.</p>
 	<p>
 		I have spent many years freelancing part time while I was raising my kids full time. My kids are
 		grown now and I am ready to start the next phase of my life. I have worked as a developer and
@@ -296,6 +297,16 @@
 		padding: 1rem;
 	}
 
+	.work-history {
+		/* margin: 2rem 0; */
+		padding: 3rem;
+		background-color: var(--clr-accent);
+	}
+
+	.education {
+		margin: 2rem;
+		padding: 1rem;
+	}
 	li {
 		padding: 0 1rem;
 		margin: 0.5rem 0;
@@ -305,6 +316,10 @@
 	h1,
 	h3 {
 		color: var(--clr-headings);
+	}
+
+	h1 {
+		margin: 1rem 0;
 	}
 
 	h2 {
