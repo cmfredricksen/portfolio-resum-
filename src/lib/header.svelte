@@ -6,7 +6,7 @@
 <header>
 	<div class="title">
 		<h1>Web Portfolio</h1>
-		<h3>by <a href="https://cmfred.com" target="blank">Chris Fredricksen</a></h3>
+		<h3>by <a href="https://cmfred-dev.netlify.app" target="blank">Chris Fredricksen</a></h3>
 	</div>
 	<Nav />
 </header>

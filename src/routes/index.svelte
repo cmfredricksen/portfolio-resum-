@@ -3,34 +3,22 @@
 
 	const links = [
 		{
-			url: 'https://technotes.cmfred.com',
+			url: 'https://technotesbycmfred.netlify.app',
 			description: 'A simple guide to Git & GitHub for Beginners',
 			title: 'Tech Notes',
 			img: '/images/026-coding.png'
 		},
 		{
-			url: 'https://cmfred.com',
+			url: 'https://cmfred-dev.netlify.app',
 			description: 'My Homepage & Freelance Service Website',
 			title: 'CM Fredricksen Development',
 			img: '/images/027-coding-1.png'
-		},
-		{
-			url: 'https://art.cmfred.com',
-			description: 'I made a little gallery showcasing my own paintings',
-			title: 'Art by Chris',
-			img: '/images/008-image.png'
 		},
 		{
 			url: 'https://kramer-bay-dog-obedience.netlify.app/',
 			description: 'A brochure site for a local dog obedience class',
 			title: 'Kramer Bay Dog Obedience',
 			img: '/images/017-border-collie.png'
-		},
-		{
-			url: 'https://artshop.cmfred.com',
-			description: 'A shop to sell my artwork built with WooCommerce',
-			title: 'Art Shop',
-			img: '/images/010-online-shopping.png'
 		},
 		{
 			url: 'https://github.com/cmfredricksen',

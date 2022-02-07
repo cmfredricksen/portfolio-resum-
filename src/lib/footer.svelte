@@ -1,6 +1,6 @@
 <footer>
 	<p>
-		© 2021 <a href="https://cmfred.com">Chris Fredricksen</a> • All Rights Reserved ♥
+		© 2021 <a href="https://cmfred-dev.netlify.app">Chris Fredricksen</a> • All Rights Reserved ♥
 	</p>
 </footer>
 
