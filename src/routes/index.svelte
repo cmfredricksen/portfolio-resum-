@@ -3,6 +3,12 @@
 
 	const links = [
 		{
+			url: 'https://gaylord-computing.netlify.app',
+			description: "Hardware Engineer's website",
+			title: 'Gaylord Custom Computing',
+			img: '/images/008-image.png'
+		},
+		{
 			url: 'https://technotesbycmfred.netlify.app',
 			description: 'A simple guide to Git & GitHub for Beginners',
 			title: 'Tech Notes',
