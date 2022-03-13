@@ -6,7 +6,7 @@
 			url: 'https://gaylord-computing.netlify.app',
 			description: "Hardware Engineer's website",
 			title: 'Gaylord Custom Computing',
-			img: '/images/008-image.png'
+			img: '/images/001-gears.png'
 		},
 		{
 			url: 'https://technotesbycmfred.netlify.app',
@@ -19,6 +19,12 @@
 			description: 'My Homepage & Freelance Service Website',
 			title: 'CM Fredricksen Development',
 			img: '/images/027-coding-1.png'
+		},
+		{
+			url: 'https://ewc-annual-sale.netlify.app',
+			description: 'A web poster for a local art show',
+			title: 'Ely Watercolor Club',
+			img: '/images/008-image.png'
 		},
 		{
 			url: 'https://kramer-bay-dog-obedience.netlify.app/',
