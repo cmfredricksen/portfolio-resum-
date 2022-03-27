@@ -2,11 +2,11 @@
 
 :root {
 	/* CSS HEX */
-	--clr-primary: #2b2d42;
-	--clr-secondary: #028090ff;
-	--clr-text: #55d2e2;
-	--clr-headings: #ea638c;
-	--clr-accent: #89023e;
+	--clr-primary: #000;
+	--clr-secondary: #333;
+	--clr-text: #ccc;
+	--clr-headings: #777;
+	--clr-accent: #06065a;
 	/* Fonts */
 	--ff-text: 'PT Sans', sans-serif;
 	--ff-heading: 'Anonymous Pro', monospace;
@@ -27,6 +27,7 @@ body {
 p {
 	color: var(--clr-text);
 	font-family: var(--ff-text);
+	line-height: 1.4;
 }
 
 h1,

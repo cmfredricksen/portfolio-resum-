@@ -17,7 +17,7 @@
 		align-items: center;
 		justify-content: space-between;
 		padding: 1rem;
-		border-bottom: 2px solid var(--clr-headings);
+		background-color: var(--clr-accent);
 	}
 
 	.title {
@@ -26,8 +26,8 @@
 	}
 
 	h1 {
-		text-shadow: 1px 1px 1px var(--clr-text);
-		font-weight: lighter;
+		font-weight: bold;
+		color: var(--clr-text);
 	}
 
 	h3 {

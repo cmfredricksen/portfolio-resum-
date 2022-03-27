@@ -260,12 +260,19 @@
 	}
 
 	.info {
-		background-color: var(--clr-accent);
 		margin-top: 1rem;
 	}
 
 	.contact {
 		display: flex;
+		justify-content: space-around;
+		background-color: var(--clr-accent);
+	}
+
+	.contact h3 {
+		color: var(--clr-text);
+		font-weight: bold;
+
 	}
 
 	.container {
@@ -294,6 +301,10 @@
 		padding: 1rem;
 	}
 
+	.experience p {
+		font-size: 1.25rem;
+	}
+
 	.intext-link {
 		font-size: large;
 		font-weight: bold;
@@ -305,12 +316,17 @@
 
 	.work-history {
 		padding: 3rem;
-		background-color: var(--clr-accent);
+		
+	}
+
+	.work-history p {
+		font-size: 1.25rem;
 	}
 
 	.education {
-		margin: 2rem;
+		margin: 2rem 0;
 		padding: 1rem;
+		background-color: var(--clr-accent);
 	}
 	li {
 		padding: 0 1rem;

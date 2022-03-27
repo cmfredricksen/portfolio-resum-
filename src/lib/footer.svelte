@@ -9,5 +9,13 @@
 		text-align: center;
 		padding: 2rem 0;
 		border-top: 2px solid var(--clr-headings);
+		background-color: var(--clr-accent);
+		font-size: 1.5rem;
+	}
+
+	@media (max-width: 600px) {
+		footer {
+			font-size: 1rem;
+		}
 	}
 </style>
