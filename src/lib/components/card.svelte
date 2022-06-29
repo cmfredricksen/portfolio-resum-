@@ -19,7 +19,7 @@
 
 <style>
 	.card {
-		border: 4px solid var(--clr-accent);
+		border: 4px solid var(--clr-headings);
 		width: 300px;
 		margin: 2rem;
 		display: flex;
@@ -27,8 +27,8 @@
 		align-items: center;
 		padding: 2rem 1rem;
 		border-radius: 0.5rem;
-		background-color: var(--clr-secondary);
-		outline: 3px solid var(--clr-headings);
+		background-color: var(--clr-accent);
+		outline: 3px solid var(--clr-text);
 	}
 
 	h3 {

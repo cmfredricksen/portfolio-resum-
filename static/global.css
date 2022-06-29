@@ -2,11 +2,12 @@
 
 :root {
 	/* CSS HEX */
-	--clr-primary: #000;
+	--clr-primary: #14145a;
 	--clr-secondary: #333;
 	--clr-text: #ccc;
 	--clr-headings: #777;
-	--clr-accent: #06065a;
+	--clr-accent: #282865;
+	
 	/* Fonts */
 	--ff-text: 'PT Sans', sans-serif;
 	--ff-heading: 'Anonymous Pro', monospace;
