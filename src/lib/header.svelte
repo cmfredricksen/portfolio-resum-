@@ -33,6 +33,7 @@
 	h3 {
 		margin-left: 1rem;
 		font-style: italic;
+		color: var(--clr-text);
 	}
 
 	@media only screen and (max-width: 600px) {
