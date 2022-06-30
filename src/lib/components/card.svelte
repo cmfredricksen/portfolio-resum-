@@ -44,7 +44,7 @@
 	}
 
 	a:hover {
-		color: var(--clr-accent);
+		color: var(--clr-text);
 	}
 
 	img {
