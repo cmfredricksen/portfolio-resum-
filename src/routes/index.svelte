@@ -3,9 +3,9 @@
 
 	const links = [
 		{
-			url: 'https://gaylord-computing.netlify.app',
+			url: 'https://amandas-computing.netlify.app',
 			description: "Hardware Engineer's website",
-			title: 'Gaylord Custom Computing',
+			title: `Amanda's Custom Computing`,
 			img: '/images/001-gears.png'
 		},
 		{
@@ -27,10 +27,10 @@
 			img: '/images/008-image.png'
 		},
 		{
-			url: 'https://kramer-bay-dog-obedience.netlify.app/',
-			description: 'A brochure site for a local dog obedience class',
-			title: 'Kramer Bay Dog Obedience',
-			img: '/images/017-border-collie.png'
+			url: 'https://web-dev-prep.netlify.app/',
+			description: 'Basic foundations in web development',
+			title: 'Web Dev Prep',
+			img: '/images/pencils.png'
 		},
 		{
 			url: 'https://github.com/cmfredricksen',
