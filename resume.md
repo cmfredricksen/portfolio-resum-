@@ -1,17 +1,16 @@
 ### **Christine Fredricksen**
 
-_Graphic Designer & Web Developer_
+_Front-End Developer & Graphic Designer_
 
 218-504-9155\
 Ely, MN 55731\
-chris@cmfred.com\
 cmfredricksen@gmail.com
 
 ## Freelance Graphic Designer & Web Developer looking for a Job
 
 I have worked as a freelancer for over 20 years while raising my kids. They are grown and I am ready to start the next phase of my life.
 
-     I am hoping to begin a career as a web developer. I want to do the work, solve the problems and implement solutions rather than running a business.
+     I am hoping to begin a career as a web developer. I am passionate about using the latest technologies to build and deploy websites. 
 
 
 I am an excellent student and I am always learning new things, and I am confident I can get the hang of any language, framework, compiler, architecture or development process. I am able to focus, I am detail oriented and don't give up easily.
@@ -56,3 +55,5 @@ Aside from freelancing I have also worked as a fine-artist, sold books online an
     I have experience in healthcare, retail, tourism, and natural resources jobs before college and freelancing.
 
 I also have volunteered several times over the years doing various things from maintenance, teaching and even founding a non-profit. I am comfortable within a group of people and tend to get along very well with most everyone, regardless of position.
+
+I am fully vaccinated and boosted against Covid-19, and practice safety measures as required.
