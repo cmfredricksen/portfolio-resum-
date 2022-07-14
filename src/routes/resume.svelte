@@ -13,7 +13,7 @@
 <div class="title">
 	<h2>Resumé</h2>
 	<h1>Chris Fredricksen</h1>
-	<h2><a href="/resume-print.pdf" target="_blank">PRINT Resumé</a></h2>
+	<h2><a href="/resume.pdf" target="_blank">PRINT Resumé</a></h2>
 </div>
 
 <div class="info">
