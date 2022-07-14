@@ -1,5 +1,5 @@
 <script>
-	import '/global.css';
+	import '../../static/global.css';
 </script>
 
 <svelte:head>
