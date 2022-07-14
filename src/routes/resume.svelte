@@ -19,7 +19,7 @@
 <div class="info">
 	<ul class="contact">
 		<li>
-			<h3><a href="mailto:chris@cmfred.com">chris@cmfred.com</a></h3>
+			<h3><a href="mailto:cmfredricksen@gmail.com">cmfredricksen@gmail.com</a></h3>
 		</li>
 		<li>
 			<h3>218-504-9155</h3>
