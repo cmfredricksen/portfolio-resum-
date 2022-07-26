@@ -26,7 +26,7 @@
 			<h3>218-504-9155</h3>
 		</li>
 		<li>
-			<h3>Ely, Minnesota</h3>
+			<h3><a href="https://github.com/cmfredricksen" title="My GitHub Page"><i class="devicon-github-plain"></i> </a></h3>
 		</li>
 	</ul>
 </div>
@@ -267,6 +267,7 @@
 	.contact {
 		display: flex;
 		justify-content: space-around;
+		align-items: center;
 		background-color: var(--clr-accent);
 	}
 
@@ -293,6 +294,10 @@
 		font-size: 3rem;
 		color: var(--clr-text);
 		margin: 1rem auto;
+	}
+
+	a i {
+		font-size: 2rem;
 	}
 
 	.experience {
