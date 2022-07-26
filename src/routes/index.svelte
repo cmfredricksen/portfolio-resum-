@@ -6,37 +6,37 @@
 			url: 'https://amandas-computing.netlify.app',
 			description: "Hardware Engineer's website",
 			title: `Amanda's Custom Computing`,
-			img: '/images/001-gears.png'
+			img: '/images/computers.jpg'
 		},
 		{
 			url: 'https://technotesbycmfred.netlify.app',
 			description: 'A simple guide to Git & GitHub for Beginners',
 			title: 'Tech Notes',
-			img: '/images/026-coding.png'
+			img: '/images/water-lilies.jpg'
 		},
 		{
 			url: 'https://cmfred-dev.netlify.app',
 			description: 'My Homepage & Freelance Service Website',
 			title: 'CM Fredricksen Development',
-			img: '/images/027-coding-1.png'
+			img: '/images/tree-home.jpg'
 		},
 		{
 			url: 'https://ewc-annual-sale.netlify.app',
 			description: 'A web poster for a local art show',
 			title: 'Ely Watercolor Club',
-			img: '/images/008-image.png'
+			img: '/images/dragonfly.jpg'
 		},
 		{
 			url: 'https://web-dev-prep.netlify.app/',
 			description: 'Basic foundations in web development',
 			title: 'Web Dev Prep',
-			img: '/images/pencils.png'
+			img: '/images/trees-from-rocks.jpg'
 		},
 		{
-			url: 'https://github.com/cmfredricksen',
-			description: 'My Github Repos',
-			title: 'GitHub of CM Fredricksen',
-			img: '/images/004-github-big-logo.png'
+			url: 'https://ai-therapist.netlify.app/',
+			description: "Generating Art using AI is calming and relaxing",
+			title: 'AI Therapist',
+			img: '/images/forest-path.png'
 		}
 	];
 </script>

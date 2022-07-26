@@ -19,7 +19,6 @@
 
 <style>
 	.card {
-		border: 4px solid var(--clr-headings);
 		width: 300px;
 		margin: 2rem;
 		display: flex;
@@ -28,7 +27,6 @@
 		padding: 2rem 1rem;
 		border-radius: 0.5rem;
 		background-color: var(--clr-accent);
-		outline: 3px solid var(--clr-text);
 	}
 
 	h3 {
@@ -48,19 +46,16 @@
 	}
 
 	img {
-		width: 100px;
-		background-color: var(--clr-text);
-		padding: 0.25rem;
-		outline: 4px solid var(--clr-text);
-		border: 4px solid var(--clr-accent);
+		width: 150px;
+		background-color: var(--clr-primary);
+		padding: 0.75rem;
 		border-radius: 0.5rem;
 	}
 
 	img:hover {
-		outline: 4px solid var(--clr-headings);
-		background-color: var(--clr-text);
-		border: 2px solid var(--clr-secondary);
+		border: 2px solid var(--clr-primary);
 		border-radius: 0.5rem;
+		outline: 1px solid var(--clr-text);
 	}
 
 	p {
