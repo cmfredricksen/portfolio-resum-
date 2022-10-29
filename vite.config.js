@@ -1,7 +1,10 @@
+import { sveltekit } from '@sveltejs/kit/vite';
+
 export default {
-    server: {
-        fs: {
-            allow: [".."]
-        }
-    }
-}
+	plugins: [sveltekit()],
+	server: {
+		fs: {
+			allow: ['..']
+		}
+	}
+};
