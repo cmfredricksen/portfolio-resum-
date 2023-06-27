@@ -1,7 +1,3 @@
-<script>
-	import '../../../static/global.css';
-</script>
-
 <svelte:head>
 	<title>Resumé of CMF</title>
 	<link
@@ -14,7 +10,6 @@
 	<h2>Resumé</h2>
 	<h1>Chris Fredricksen</h1>
 	<h2><a href="/resume-2022-07.pdf" target="_blank">PRINT Resumé</a></h2>
-
 </div>
 
 <div class="info">
@@ -26,7 +21,11 @@
 			<h3>218-504-9155</h3>
 		</li>
 		<li>
-			<h3><a href="https://github.com/cmfredricksen" title="My GitHub Page"><i class="devicon-github-plain"></i> </a></h3>
+			<h3>
+				<a href="https://github.com/cmfredricksen" title="My GitHub Page"
+					><i class="devicon-github-plain" />
+				</a>
+			</h3>
 		</li>
 	</ul>
 </div>
@@ -274,7 +273,6 @@
 	.contact h3 {
 		color: var(--clr-text);
 		font-weight: bold;
-
 	}
 
 	.container {
@@ -322,7 +320,6 @@
 
 	.work-history {
 		padding: 3rem;
-		
 	}
 
 	.work-history p {

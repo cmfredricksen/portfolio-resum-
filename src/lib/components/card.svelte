@@ -1,5 +1,5 @@
 <script>
-	import '../../../static/global.css';
+	import '../../global.css';
 
 	export let url;
 	export let description;

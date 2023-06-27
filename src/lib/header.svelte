@@ -1,6 +1,5 @@
 <script>
 	import Nav from '$lib/nav.svelte';
-	import '../../static/global.css';
 </script>
 
 <header>
