@@ -33,6 +33,7 @@
 <div class="container">
 	<div class="icons">
 		<i class="devicon-javascript-plain " />
+		<i class="devicon-typescript-plain" />
 		<i class="devicon-html5-plain" />
 		<i class="devicon-css3-plain" />
 		<i class="devicon-sass-plain" />
@@ -40,23 +41,30 @@
 		<i class="devicon-npm-original-wordmark" />
 		<i class="devicon-express-original" />
 		<i class="devicon-svelte-plain" />
+		<i class="devicon-nextjs-plain" />
 		<i class="devicon-vscode-plain" />
 		<i class="devicon-vim-plain" />
 		<i class="devicon-mongodb-plain" />
-		<i class="devicon-typescript-plain" />
 		<i class="devicon-jamstack-plain" />
 		<i class="devicon-bash-plain " />
 		<i class="devicon-linux-plain" />
 		<i class="devicon-apple-plain " />
 		<i class="devicon-ubuntu-plain" />
 		<i class="devicon-chrome-plain" />
+		<i class="devicon-firefox-plain" />
+		<i class="devicon-safari-plain" />
 		<i class="devicon-filezilla-plain" />
 		<i class="devicon-google-plain" />
 		<i class="devicon-git-plain" />
 		<i class="devicon-github-plain" />
+		<i class="devicon-gitlab-plain" />
 		<i class="devicon-markdown-plain" />
 		<i class="devicon-wordpress-plain" />
 		<i class="devicon-woocommerce-plain" />
+		<i class="devicon-docker-plain" />
+		<i class="devicon-react-plain" />
+		<i class="devicon-angularjs-plain" />
+		<i class="devicon-python-plain" />
 	</div>
 
 	<div class="experience">
