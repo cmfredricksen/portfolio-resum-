@@ -11,6 +11,50 @@
 	<h2><a href="/resume-2022-07.pdf" target="_blank">PRINT Resumé</a></h2>
 </div>
 
+<div class="current-stack">
+	<h2>My Current Web Development Stack</h2>
+	<p>The stack I am currently using for my projects is:</p>
+	<ul>
+		<li>
+			<p>SvelteKit</p>
+		</li>
+		<li>
+			<p>Typescript</p>
+		</li>
+		<li>
+			<p>Node JS / NPM</p>
+		</li>
+		<li>
+			<p>HTML / CSS / Markdown</p>
+		</li>
+		<li>
+			<p>Vite</p>
+		</li>
+	</ul>
+</div>
+
+<div class="learning">
+	<h2>Learning</h2>
+	<p>
+		I am always learning more, both deepening and expanding my knowledge of development. I have
+		recently taken classes and built small projects using:
+	</p>
+	<ul>
+		<li>
+			<p>Python</p>
+		</li>
+		<li>
+			<p>Angular</p>
+		</li>
+		<li>
+			<p>PostGreSql</p>
+		</li>
+		<li>
+			<p>C# & .Net</p>
+		</li>
+	</ul>
+</div>
+
 <style>
 	.title {
 		display: flex;
