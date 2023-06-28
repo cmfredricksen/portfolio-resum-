@@ -3,6 +3,18 @@
 
 	const links = [
 		{
+			url: 'https://cooking-with-fred.netlify.app/',
+			description: 'My favorite recipes, some are my own!',
+			title: 'Cooking with Fred',
+			img: '/images/worlds-collide.jpg'
+		},
+		{
+			url: '/',
+			description: 'Educational Quiz Website',
+			title: 'US Civics Quiz',
+			img: '/images/swamp-nymph.jpg'
+		},
+		{
 			url: 'https://amandas-computing.netlify.app',
 			description: "Hardware Engineer's website",
 			title: `Amanda's Custom Computing`,
@@ -51,11 +63,11 @@
 
 <div class="intro">
 	<p>
-		Welcome to my Web Folio! Here are links to some of the recent personal projects I have done
-		while learning web development. You can also find a link to my GitHub page which contains some
-		of the repos for these projects, along with others I am working on, and some from when I started
-		learning too. Some of these sites are hosted on Netlify using GitHub for integration. Above you
-		will find a link to my resumé. Thanks for stopping by!
+		Welcome to my Web Folio! The samples below will show my sense of design and color, very clean
+		and beautiful. Ease of reading and navigation are my top priorities when creating web
+		experiences, but I also love vibrant colors. Every project has custom chosen colors and fonts
+		which I test for accessibility. Layout is also extremely important to making your website easy
+		to read and navigate.
 	</p>
 </div>
 
@@ -75,12 +87,12 @@
 
 	.main {
 		max-width: 1200px;
-		margin: auto;
+		margin: 0 auto;
 	}
 	.container {
 		display: flex;
 		flex-wrap: wrap;
-		margin: 2rem auto;
+		margin: 0 auto;
 		padding: 0;
 		align-items: center;
 		justify-content: center;
