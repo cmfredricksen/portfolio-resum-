@@ -3,7 +3,8 @@
 
 	const nav = [
 		{ title: 'Home', path: '/' },
-		{ title: 'Resumé', path: '/resume' }
+		{ title: 'Resumé', path: '/resume' },
+		{ title: 'Profile', path: '/profile' }
 	];
 </script>
 

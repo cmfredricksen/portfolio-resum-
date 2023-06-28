@@ -34,12 +34,20 @@
 		},
 		{
 			url: 'https://ai-therapist.netlify.app/',
-			description: "Generating Art using AI is calming and relaxing",
+			description: 'Generating Art using AI is calming and relaxing',
 			title: 'AI Therapist',
 			img: '/images/forest-path.png'
 		}
 	];
 </script>
+
+<svelte:head>
+	<title>Web &middot; Folio by CM Fredricksen</title>
+	<link
+		rel="stylesheet"
+		href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"
+	/>
+</svelte:head>
 
 <div class="intro">
 	<p>

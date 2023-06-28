@@ -72,12 +72,13 @@
 		<ul>
 			<li>
 				<h3>
-					Javascript
+					Javascript & Typescript
 					<i class="devicon-javascript-plain small" />
+					<i class="devicon-typescript-plain small" />
 				</h3>
 				<p>
-					Working knowledge of Javascript, ES6, Async/Await, Methods, Objects, OOP & Functional
-					programming. In-depth understanding including scope and props.
+					Working knowledge of Javascript, ES6+, Async/Await, Methods, Objects, OOP & functional
+					programming. Familiar with typing using Typescript and JSDocs.
 				</p>
 			</li>
 			<li>

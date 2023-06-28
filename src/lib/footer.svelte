@@ -1,6 +1,9 @@
 <footer>
 	<p>
-		© 2022 <a href="https://cmfred-dev.netlify.app">Chris Fredricksen</a> • All Rights Reserved ♥
+		© 2022 <a href="https://cmfred-dev.netlify.app">Chris Fredricksen</a> • All Rights Reserved
+		<a href="https://github.com/cmfredricksen">
+			<i class="devicon-github-plain" />
+		</a>
 	</p>
 </footer>
 
